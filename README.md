@@ -2,6 +2,8 @@
 
 ポケモンの姿を見て名前を当てるクイズゲームです。PokeAPI を使用して、ランダムなポケモンの画像と選択肢を表示します。
 
+https://pokemon-quiz-gxhllszbh-w712915s-projects.vercel.app/
+
 ![ポケモンクイズアプリのスクリーンショット](./public/images/screenshot.png)
 
 ## 機能
