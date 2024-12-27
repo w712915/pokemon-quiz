@@ -92,4 +92,4 @@ pokemon-quiz/
 
 ## 作者
 
-[Chin](https://github.com/w712915)
+[w712915](https://github.com/w712915)
